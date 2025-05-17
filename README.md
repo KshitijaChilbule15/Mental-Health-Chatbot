@@ -3,5 +3,3 @@
 # Building Agentic based Mental Health chatbot using Langchain workflows
 
 ## Start Date : April 12 2025
-
-![image](https://github.com/user-attachments/assets/e72159af-59fb-4a73-9a53-ea6e3e18c886)
